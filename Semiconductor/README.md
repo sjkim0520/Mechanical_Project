@@ -107,7 +107,7 @@ AI 및 고성능 컴퓨팅(HPC) 시대의 핵심인 **HBM** 및 **Advanced Packa
 
 ```text
 ├── 01_Preston_MRR_Simulation/
-│   ├── main_mrr_sim.py
+│   ├── main_mrr_sim.ipynb
 │   └── README.md
 ├── 02_Defect_Feature_Extraction/
 │   ├── dishing_detection.ipynb
