@@ -43,7 +43,7 @@ $$V(r, \theta) = \sqrt{(\omega_p R_{offset})^2 + ((\omega_p - \omega_c) r)^2 + 2
   *(회전 속도가 동기화되면 웨이퍼 상의 모든 위치에서 상대 속도가 동일해져 균일도 극대화)*
 
 ### 3.3 WIWNU (Wafer Within-Wafer Non-Uniformity)
-$$\text{WIWNU (\%)} = \left( \frac{\sigma_{MRR}}{\mu_{MRR}} \right) \times 100$$
+$$\text{WIWNU (\\%)} = \left( \frac{\sigma_{MRR}}{\mu_{MRR}} \right) \times 100$$
 
 * $\sigma_{MRR}$ : 반경별 측정 지점들의 MRR 표준편차
 * $\mu_{MRR}$ : 반경별 측정 지점들의 MRR 평균값
