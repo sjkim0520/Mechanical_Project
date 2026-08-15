@@ -1,7 +1,7 @@
 # 🔬 Advanced Semiconductor Packaging & CMP Simulation Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2025b-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 [![Simulink](https://img.shields.io/badge/Simulink-Modeling-ED8B00?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -20,8 +20,8 @@ AI 및 고성능 컴퓨팅(HPC) 시대의 핵심인 **HBM** 및 **Advanced Packa
 
 | 구분 | 사용 도구 / 라이브러리 |
 | :--- | :--- |
-| **Languages & Environment** | Python 3.10+, MATLAB R2023b, Google Colab |
-| **Numerical & Modeling** | NumPy, SciPy, SymPy, Control System Toolbox, Simscape |
+| **Languages & Environment** | Python 3.10+, MATLAB R2025b, Google Colab |
+| **Numerical & Modeling** | NumPy, SciPy, SymPy, Control System Toolbox |
 | **Optimization & Data** | Pandas, Scikit-learn, CasADi |
 | **AI & Computer Vision** | PyTorch, OpenCV, Matplotlib, Seaborn |
 
