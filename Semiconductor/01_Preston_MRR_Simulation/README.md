@@ -1,7 +1,7 @@
 # 🧪 CMP Process Mathematical Modeling & WIWNU Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Open_in_Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Domain](https://img.shields.io/badge/Domain-Semiconductor%20Process-green.svg)](#)
 
 > **CMP(Chemical Mechanical Planarization) 공정의 물리적/기계적 메커니즘 수치 해석 및 Preston 방정식 기반 WIWNU(Wafer Within-Wafer Non-Uniformity) 최적화 시뮬레이션**
@@ -52,5 +52,5 @@ $$\text{WIWNU (\%)} = \left( \frac{\sigma_{MRR}}{\mu_{MRR}} \right) \times 100$$
 
 ## 👤 4. Author & License
 
-- **Author**: [Seung Ju Kim] / [tmdwn010520@gmail.com] / [LinkedIn 또는 개인 블로그 링크]
+- **Author**: [Seung Ju Kim] / [tmdwn010520@gmail.com] / [www.linkedin.com/in/seung-ju-kim-488881391]
 - **License**: MIT License
