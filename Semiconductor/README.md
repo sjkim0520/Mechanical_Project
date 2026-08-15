@@ -6,7 +6,7 @@
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-> **차세대 반도체 패키징(HBM, Hybrid Bonding) 및 CMP(Chemical Mechanical Planarization) 공정의 수치해석, 최적화, 제어 및 AI 기반 모니터링 연구 포트폴리오입니다.**
+> **차세대 반도체 패키징(HBM, Hybrid Bonding) 및 CMP(Chemical Mechanical Planarization) 공정의 수치해석, 최적화, 제어 및 AI 기반 모니터링 프로젝트입니다.**
 
 ---
 
